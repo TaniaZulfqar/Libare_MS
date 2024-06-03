@@ -1,0 +1,10 @@
+Tania		79
+Eman		68
+Fatima		95
+Amna		40
+Fiza		65
+Taiba		86
+Hadia		97
+Farah		84
+Zara		68
+Saba		76
